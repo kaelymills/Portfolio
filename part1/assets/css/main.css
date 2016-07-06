@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/IMG_2017.jpg) no-repeat center top;
+	background: url(../img/IMG_3416.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -175,12 +175,12 @@ a:after {
 
 #headerwrap h1 {
 	font-size: 80px;
-	color: #F2D388;
+	color: white;
 }
 
 #headerwrap h3 {
 	font-size: 20px;
-	color: #F2D388;
+	color: white;
 }
 
 /* Intnro Wrap */
